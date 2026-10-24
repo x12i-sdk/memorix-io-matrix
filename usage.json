@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/memorix-io-matrix",
+  "packageVersion": "1.1.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/memorix-io-matrix",
+  "usageRepository": "https://github.com/x12i-sdk/memorix-io-matrix",
+  "sourceRepository": "https://github.com/x12i/memorix-generic-connectors",
+  "sourceCommit": "e8dd8c95a7ccbf7d3aa881086974242e3dcc1e10",
+  "sourcePackageDirectory": "packages/memorix-io-matrix",
+  "example": {
+    "title": "Derive an input-output matrix from connector metadata",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T14:28:43.945490+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "358b64698279ea08747e11d67954735322d3a8f77e944610ec1b1290613b121f",
+    "manifestSha256": "641f9dd5916c9f65614dac620479e8ba0f8242967982d0c548b21644ab1c6995"
+  },
+  "validationFiles": {
+    "src/index.mjs": "358b64698279ea08747e11d67954735322d3a8f77e944610ec1b1290613b121f"
+  }
+}
